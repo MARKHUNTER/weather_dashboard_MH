@@ -58,5 +58,7 @@ Risk	Likelihood (High/Med/Low)	Impact (High/Med/Low)	Mitigation Plan
     Solution: Use data saved locally
     Solution: error messages stating that API unavailable
     Solution: User another email address to have multiple free accounts
+3. Internet not working or slow
+    Solution: error message/progress bar
 
 
